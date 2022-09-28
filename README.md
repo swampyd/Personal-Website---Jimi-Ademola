@@ -1,2 +1,2 @@
-# Personal-Website---Jimi-Ademola
-Jimi Ademola's personal website
+# Website
+## Jimi Ademola's Personal Website
