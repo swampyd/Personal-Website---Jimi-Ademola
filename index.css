@@ -1,0 +1,24 @@
+
+body {
+    background-color: lightblue;
+}
+h1 {
+    font-size: 850%;
+    text-align: left;
+    margin-top: 0%;
+    margin-bottom: -1%;
+}
+h2 {
+    font-size: 230%;
+    margin-top: 0%;
+}
+#gunterzText {
+    color: antiquewhite;
+    font-family: 'gunterzblack', Helvetica, sans-serif;
+}
+
+#text {
+    color: antiquewhite;
+}
+
+  
