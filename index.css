@@ -1,6 +1,6 @@
 
 body {
-    background-color: antiquewhite;
+    background-color: lightblue;
 }
 h1 {
     font-size: 850%;
@@ -13,12 +13,12 @@ h2 {
     margin-top: 0%;
 }
 #gunterzText {
-    color: black;
+    color: antiquewhite;
     font-family: 'gunterzblack', Helvetica, sans-serif;
 }
 
 #text {
-    color: black;
+    color: antiquewhite;
     text-align: center;
 }
 
@@ -35,7 +35,7 @@ h2 {
     text-align: right;
     rotate: -30deg;
     margin-bottom: 0%;
-    color: black;
+    color: antiquewhite;
 }
 
   
